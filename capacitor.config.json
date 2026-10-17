@@ -1,0 +1,16 @@
+{
+  "appId": "com.studyquest.app",
+  "appName": "Study Quest",
+  "webDir": "www",
+  "backgroundColor": "#F3F5F9",
+  "android": {
+    "backgroundColor": "#F3F5F9"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#FF5A36",
+      "overlaysWebView": false
+    }
+  }
+}
